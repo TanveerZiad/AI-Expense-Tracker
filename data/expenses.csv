@@ -1,0 +1,501 @@
+Transaction_ID,Date,Description,Category,Transaction_Type,Amount_BDT,Payment_Mode,City
+TXN0001,2025-09-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0002,2025-09-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0003,2025-09-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0004,2025-09-02,DESCO Electricity Bill,Utilities,Expense,1450,bKash,Dhaka
+TXN0005,2025-09-02,WASA Water Bill,Utilities,Expense,550,bKash,Dhaka
+TXN0006,2025-09-03,Link3 Internet Bill,Utilities,Expense,1100,bKash,Dhaka
+TXN0007,2025-09-03,Grameenphone Mobile Recharge,Utilities,Expense,299,bKash,Dhaka
+TXN0008,2025-09-04,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0009,2025-09-04,Rickshaw Fare to Metro Station,Transport,Expense,60,Cash,Dhaka
+TXN0010,2025-09-05,Office Lunch at Tong,Food & Drinks,Expense,120,Cash,Dhaka
+TXN0011,2025-09-05,Evening CNG Auto Rickshaw,Transport,Expense,150,Cash,Dhaka
+TXN0012,2025-09-06,Shwapno Weekly Grocery,Groceries,Expense,1850,Card,Dhaka
+TXN0013,2025-09-06,bKash Cash Out Charge,Fees,Expense,15,bKash,Dhaka
+TXN0014,2025-09-07,Sultan's Dine Family Dinner,Dining,Expense,1450,Card,Dhaka
+TXN0015,2025-09-07,Pathao Food Delivery,Dining,Expense,350,bKash,Dhaka
+TXN0016,2025-09-08,Morning Tea and Singara,Food & Drinks,Expense,30,Cash,Dhaka
+TXN0017,2025-09-08,Uber Moto to Office,Transport,Expense,85,bKash,Dhaka
+TXN0018,2025-09-09,Lunch at Local Restaurant,Food & Drinks,Expense,180,bKash,Dhaka
+TXN0019,2025-09-09,Evening Fuchka and Jhal Muri,Food & Drinks,Expense,50,Cash,Dhaka
+TXN0020,2025-09-10,Rickshaw Fare from Metro,Transport,Expense,60,Cash,Dhaka
+TXN0021,2025-09-11,Star Kabab Dinner,Dining,Expense,450,Card,Dhaka
+TXN0022,2025-09-12,Meena Bazar Groceries,Groceries,Expense,1200,Card,Dhaka
+TXN0023,2025-09-13,Chillox Burger and Fries,Dining,Expense,320,bKash,Dhaka
+TXN0024,2025-09-14,Weekend Tea Stall Adda,Food & Drinks,Expense,80,Cash,Dhaka
+TXN0025,2025-09-15,Freelance Project Payment,Freelance,Income,12000,Bank Transfer,Dhaka
+TXN0026,2025-09-15,Daraz Order - Electronics,Shopping,Expense,2500,bKash,Dhaka
+TXN0027,2025-09-16,Uber Car to Client Meeting,Transport,Expense,450,Card,Dhaka
+TXN0028,2025-09-17,Office Canteen Lunch,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0029,2025-09-18,Evening Walk and Juice,Food & Drinks,Expense,120,bKash,Dhaka
+TXN0030,2025-09-19,Takeout Chicken Biryani,Dining,Expense,280,bKash,Dhaka
+TXN0031,2025-09-20,Kacchi Bhai Weekend Feast,Dining,Expense,550,Card,Dhaka
+TXN0032,2025-09-21,Bashundhara City Shopping,Shopping,Expense,3200,Card,Dhaka
+TXN0033,2025-09-22,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0034,2025-09-23,Rickshaw Fare,Transport,Expense,80,Cash,Dhaka
+TXN0035,2025-09-24,Tuition Income from Student,Freelance,Income,4000,Cash,Dhaka
+TXN0036,2025-09-25,Robi Mobile Recharge,Utilities,Expense,299,bKash,Dhaka
+TXN0037,2025-09-26,Agora Supermarket,Groceries,Expense,2100,Card,Dhaka
+TXN0038,2025-09-27,Foodpanda Delivery,Dining,Expense,420,bKash,Dhaka
+TXN0039,2025-09-28,Weekend Street Food,Food & Drinks,Expense,150,Cash,Dhaka
+TXN0040,2025-09-29,Bata Shoe Purchase,Shopping,Expense,2800,Card,Dhaka
+TXN0041,2025-09-30,Month End Adjustment,Fees,Expense,50,bKash,Dhaka
+TXN0042,2025-10-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0043,2025-10-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0044,2025-10-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0045,2025-10-02,DESCO Bill,Utilities,Expense,1380,bKash,Dhaka
+TXN0046,2025-10-02,Titas Gas Bill,Utilities,Expense,850,bKash,Dhaka
+TXN0047,2025-10-03,Carnival Internet Bill,Utilities,Expense,1200,bKash,Dhaka
+TXN0048,2025-10-04,Banglalink Recharge,Utilities,Expense,350,bKash,Dhaka
+TXN0049,2025-10-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0050,2025-10-05,Office Lunch,Food & Drinks,Expense,150,Cash,Dhaka
+TXN0051,2025-10-06,Pathao Bike to Office,Transport,Expense,90,bKash,Dhaka
+TXN0052,2025-10-07,Evening CNG,Transport,Expense,180,Cash,Dhaka
+TXN0053,2025-10-08,Shwapno Grocery,Groceries,Expense,1650,Card,Dhaka
+TXN0054,2025-10-09,KFC Family Meal,Dining,Expense,850,Card,Dhaka
+TXN0055,2025-10-10,Weekend Tea and Snacks,Food & Drinks,Expense,60,Cash,Dhaka
+TXN0056,2025-10-11,New Market Shopping,Shopping,Expense,1500,Cash,Dhaka
+TXN0057,2025-10-12,Star Kabab Dinner,Dining,Expense,380,bKash,Dhaka
+TXN0058,2025-10-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0059,2025-10-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0060,2025-10-15,Daraz Order - Clothing,Shopping,Expense,1200,bKash,Dhaka
+TXN0061,2025-10-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0062,2025-10-17,Uber Moto,Transport,Expense,75,bKash,Dhaka
+TXN0063,2025-10-18,Chillox Dinner,Dining,Expense,290,bKash,Dhaka
+TXN0064,2025-10-19,Meena Bazar Groceries,Groceries,Expense,1400,Card,Dhaka
+TXN0065,2025-10-20,Kacchi Bhai Feast,Dining,Expense,520,Card,Dhaka
+TXN0066,2025-10-21,Foodpanda Delivery,Dining,Expense,380,bKash,Dhaka
+TXN0067,2025-10-22,Rickshaw Fare,Transport,Expense,60,Cash,Dhaka
+TXN0068,2025-10-23,Weekend Street Food,Food & Drinks,Expense,120,Cash,Dhaka
+TXN0069,2025-10-24,Bashundhara City Shopping,Shopping,Expense,2800,Card,Dhaka
+TXN0070,2025-10-25,Takeout Biryani,Dining,Expense,250,bKash,Dhaka
+TXN0071,2025-10-26,Month End Adjustment,Fees,Expense,40,bKash,Dhaka
+TXN0072,2025-11-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0073,2025-11-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0074,2025-11-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0075,2025-11-02,DESCO Bill,Utilities,Expense,1520,bKash,Dhaka
+TXN0076,2025-11-02,WASA Bill,Utilities,Expense,480,bKash,Dhaka
+TXN0077,2025-11-03,Dot Internet Bill,Utilities,Expense,1000,bKash,Dhaka
+TXN0078,2025-11-04,Grameenphone Recharge,Utilities,Expense,299,bKash,Dhaka
+TXN0079,2025-11-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0080,2025-11-05,Office Lunch,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0081,2025-11-06,Pathao Bike,Transport,Expense,85,bKash,Dhaka
+TXN0082,2025-11-07,Evening CNG,Transport,Expense,160,Cash,Dhaka
+TXN0083,2025-11-08,Shwapno Grocery,Groceries,Expense,1900,Card,Dhaka
+TXN0084,2025-11-09,Sultan's Dine Dinner,Dining,Expense,1350,Card,Dhaka
+TXN0085,2025-11-10,Weekend Tea Stall,Food & Drinks,Expense,50,Cash,Dhaka
+TXN0086,2025-11-11,Aarong Winter Collection,Shopping,Expense,4500,Card,Dhaka
+TXN0087,2025-11-12,Star Kabab Dinner,Dining,Expense,410,bKash,Dhaka
+TXN0088,2025-11-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0089,2025-11-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0090,2025-11-15,Daraz Order - Gadgets,Shopping,Expense,3500,bKash,Dhaka
+TXN0091,2025-11-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0092,2025-11-17,Uber Car to Airport,Transport,Expense,850,Card,Dhaka
+TXN0093,2025-11-18,Chillox Dinner,Dining,Expense,310,bKash,Dhaka
+TXN0094,2025-11-19,Meena Bazar Groceries,Groceries,Expense,1350,Card,Dhaka
+TXN0095,2025-11-20,Kacchi Bhai Feast,Dining,Expense,580,Card,Dhaka
+TXN0096,2025-11-21,Foodpanda Delivery,Dining,Expense,450,bKash,Dhaka
+TXN0097,2025-11-22,Rickshaw Fare,Transport,Expense,80,Cash,Dhaka
+TXN0098,2025-11-23,Weekend Street Food,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0099,2025-11-24,Bashundhara City Shopping,Shopping,Expense,2100,Card,Dhaka
+TXN0100,2025-11-25,Takeout Biryani,Dining,Expense,260,bKash,Dhaka
+TXN0101,2025-11-26,Month End Adjustment,Fees,Expense,60,bKash,Dhaka
+TXN0102,2025-12-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0103,2025-12-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0104,2025-12-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0105,2025-12-02,DESCO Bill,Utilities,Expense,1650,bKash,Dhaka
+TXN0106,2025-12-02,WASA Bill,Utilities,Expense,520,bKash,Dhaka
+TXN0107,2025-12-03,Link3 Internet Bill,Utilities,Expense,1100,bKash,Dhaka
+TXN0108,2025-12-04,Robi Mobile Recharge,Utilities,Expense,350,bKash,Dhaka
+TXN0109,2025-12-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0110,2025-12-05,Office Lunch,Food & Drinks,Expense,150,Cash,Dhaka
+TXN0111,2025-12-06,Pathao Bike,Transport,Expense,95,bKash,Dhaka
+TXN0112,2025-12-07,Evening CNG,Transport,Expense,170,Cash,Dhaka
+TXN0113,2025-12-08,Shwapno Grocery,Groceries,Expense,1750,Card,Dhaka
+TXN0114,2025-12-09,Sultan's Dine Dinner,Dining,Expense,1500,Card,Dhaka
+TXN0115,2025-12-10,Weekend Tea Stall,Food & Drinks,Expense,60,Cash,Dhaka
+TXN0116,2025-12-11,Yellow Clothing Store,Shopping,Expense,3200,Card,Dhaka
+TXN0117,2025-12-12,Star Kabab Dinner,Dining,Expense,390,bKash,Dhaka
+TXN0118,2025-12-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0119,2025-12-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0120,2025-12-15,iPhone 15 Pro Max Purchase,Shopping,Expense,145000,Card,Dhaka
+TXN0121,2025-12-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0122,2025-12-17,Uber Moto,Transport,Expense,80,bKash,Dhaka
+TXN0123,2025-12-18,Chillox Dinner,Dining,Expense,280,bKash,Dhaka
+TXN0124,2025-12-19,Meena Bazar Groceries,Groceries,Expense,1450,Card,Dhaka
+TXN0125,2025-12-20,Kacchi Bhai Feast,Dining,Expense,540,Card,Dhaka
+TXN0126,2025-12-21,Foodpanda Delivery,Dining,Expense,410,bKash,Dhaka
+TXN0127,2025-12-22,Rickshaw Fare,Transport,Expense,60,Cash,Dhaka
+TXN0128,2025-12-23,Weekend Street Food,Food & Drinks,Expense,130,Cash,Dhaka
+TXN0129,2025-12-24,Bashundhara City Shopping,Shopping,Expense,2500,Card,Dhaka
+TXN0130,2025-12-25,Takeout Biryani,Dining,Expense,270,bKash,Dhaka
+TXN0131,2025-12-26,Month End Adjustment,Fees,Expense,45,bKash,Dhaka
+TXN0132,2026-01-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0133,2026-01-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0134,2026-01-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0135,2026-01-02,DESCO Bill,Utilities,Expense,1480,bKash,Dhaka
+TXN0136,2026-01-02,WASA Bill,Utilities,Expense,490,bKash,Dhaka
+TXN0137,2026-01-03,Carnival Internet Bill,Utilities,Expense,1200,bKash,Dhaka
+TXN0138,2026-01-04,Grameenphone Recharge,Utilities,Expense,299,bKash,Dhaka
+TXN0139,2026-01-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0140,2026-01-05,Office Lunch,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0141,2026-01-06,Pathao Bike,Transport,Expense,85,bKash,Dhaka
+TXN0142,2026-01-07,Evening CNG,Transport,Expense,160,Cash,Dhaka
+TXN0143,2026-01-08,Shwapno Grocery,Groceries,Expense,1800,Card,Dhaka
+TXN0144,2026-01-09,Sultan's Dine Dinner,Dining,Expense,1400,Card,Dhaka
+TXN0145,2026-01-10,Weekend Tea Stall,Food & Drinks,Expense,50,Cash,Dhaka
+TXN0146,2026-01-11,New Market Shopping,Shopping,Expense,1800,Cash,Dhaka
+TXN0147,2026-01-12,Star Kabab Dinner,Dining,Expense,420,bKash,Dhaka
+TXN0148,2026-01-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0149,2026-01-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0150,2026-01-15,Daraz Order - Home Decor,Shopping,Expense,2200,bKash,Dhaka
+TXN0151,2026-01-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0152,2026-01-17,Uber Moto,Transport,Expense,75,bKash,Dhaka
+TXN0153,2026-01-18,Chillox Dinner,Dining,Expense,300,bKash,Dhaka
+TXN0154,2026-01-19,Meena Bazar Groceries,Groceries,Expense,1300,Card,Dhaka
+TXN0155,2026-01-20,Kacchi Bhai Feast,Dining,Expense,560,Card,Dhaka
+TXN0156,2026-01-21,Foodpanda Delivery,Dining,Expense,390,bKash,Dhaka
+TXN0157,2026-01-22,Rickshaw Fare,Transport,Expense,80,Cash,Dhaka
+TXN0158,2026-01-23,Weekend Street Food,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0159,2026-01-24,Bashundhara City Shopping,Shopping,Expense,2900,Card,Dhaka
+TXN0160,2026-01-25,Takeout Biryani,Dining,Expense,250,bKash,Dhaka
+TXN0161,2026-01-26,Month End Adjustment,Fees,Expense,55,bKash,Dhaka
+TXN0162,2026-02-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0163,2026-02-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0164,2026-02-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0165,2026-02-02,DESCO Bill,Utilities,Expense,1350,bKash,Dhaka
+TXN0166,2026-02-02,WASA Bill,Utilities,Expense,460,bKash,Dhaka
+TXN0167,2026-02-03,Link3 Internet Bill,Utilities,Expense,1100,bKash,Dhaka
+TXN0168,2026-02-04,Banglalink Recharge,Utilities,Expense,350,bKash,Dhaka
+TXN0169,2026-02-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0170,2026-02-05,Office Lunch,Food & Drinks,Expense,150,Cash,Dhaka
+TXN0171,2026-02-06,Pathao Bike,Transport,Expense,90,bKash,Dhaka
+TXN0172,2026-02-07,Evening CNG,Transport,Expense,170,Cash,Dhaka
+TXN0173,2026-02-08,Shwapno Grocery,Groceries,Expense,1650,Card,Dhaka
+TXN0174,2026-02-09,Sultan's Dine Dinner,Dining,Expense,1450,Card,Dhaka
+TXN0175,2026-02-10,Ekushey Boi Mela Books,Shopping,Expense,3500,Cash,Dhaka
+TXN0176,2026-02-11,Ekushey Boi Mela Snacks,Food & Drinks,Expense,250,Cash,Dhaka
+TXN0177,2026-02-12,Star Kabab Dinner,Dining,Expense,400,bKash,Dhaka
+TXN0178,2026-02-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0179,2026-02-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0180,2026-02-15,Daraz Order - Books,Shopping,Expense,1800,bKash,Dhaka
+TXN0181,2026-02-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0182,2026-02-17,Uber Moto,Transport,Expense,80,bKash,Dhaka
+TXN0183,2026-02-18,Chillox Dinner,Dining,Expense,320,bKash,Dhaka
+TXN0184,2026-02-19,Meena Bazar Groceries,Groceries,Expense,1400,Card,Dhaka
+TXN0185,2026-02-20,Kacchi Bhai Feast,Dining,Expense,530,Card,Dhaka
+TXN0186,2026-02-21,Foodpanda Delivery,Dining,Expense,430,bKash,Dhaka
+TXN0187,2026-02-22,Rickshaw Fare,Transport,Expense,60,Cash,Dhaka
+TXN0188,2026-02-23,Weekend Street Food,Food & Drinks,Expense,120,Cash,Dhaka
+TXN0189,2026-02-24,Bashundhara City Shopping,Shopping,Expense,2400,Card,Dhaka
+TXN0190,2026-02-25,Takeout Biryani,Dining,Expense,280,bKash,Dhaka
+TXN0191,2026-02-26,Month End Adjustment,Fees,Expense,50,bKash,Dhaka
+TXN0192,2026-03-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0193,2026-03-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0194,2026-03-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0195,2026-03-02,DESCO Bill,Utilities,Expense,1280,bKash,Dhaka
+TXN0196,2026-03-02,WASA Bill,Utilities,Expense,440,bKash,Dhaka
+TXN0197,2026-03-03,Dot Internet Bill,Utilities,Expense,1000,bKash,Dhaka
+TXN0198,2026-03-04,Grameenphone Recharge,Utilities,Expense,299,bKash,Dhaka
+TXN0199,2026-03-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0200,2026-03-05,Office Lunch,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0201,2026-03-06,Pathao Bike,Transport,Expense,85,bKash,Dhaka
+TXN0202,2026-03-07,Evening CNG,Transport,Expense,160,Cash,Dhaka
+TXN0203,2026-03-08,Shwapno Grocery,Groceries,Expense,1750,Card,Dhaka
+TXN0204,2026-03-09,Sultan's Dine Dinner,Dining,Expense,1380,Card,Dhaka
+TXN0205,2026-03-10,Weekend Tea Stall,Food & Drinks,Expense,60,Cash,Dhaka
+TXN0206,2026-03-11,Aarong Shopping,Shopping,Expense,3800,Card,Dhaka
+TXN0207,2026-03-12,Star Kabab Dinner,Dining,Expense,410,bKash,Dhaka
+TXN0208,2026-03-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0209,2026-03-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0210,2026-03-15,Daraz Order - Gadgets,Shopping,Expense,4200,bKash,Dhaka
+TXN0211,2026-03-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0212,2026-03-17,Uber Moto,Transport,Expense,75,bKash,Dhaka
+TXN0213,2026-03-18,Chillox Dinner,Dining,Expense,290,bKash,Dhaka
+TXN0214,2026-03-19,Meena Bazar Groceries,Groceries,Expense,1350,Card,Dhaka
+TXN0215,2026-03-20,Kacchi Bhai Feast,Dining,Expense,570,Card,Dhaka
+TXN0216,2026-03-21,Foodpanda Delivery,Dining,Expense,400,bKash,Dhaka
+TXN0217,2026-03-22,Rickshaw Fare,Transport,Expense,80,Cash,Dhaka
+TXN0218,2026-03-23,Weekend Street Food,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0219,2026-03-24,Bashundhara City Shopping,Shopping,Expense,2600,Card,Dhaka
+TXN0220,2026-03-25,Takeout Biryani,Dining,Expense,260,bKash,Dhaka
+TXN0221,2026-03-26,Month End Adjustment,Fees,Expense,40,bKash,Dhaka
+TXN0222,2026-04-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0223,2026-04-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0224,2026-04-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0225,2026-04-02,DESCO Bill,Utilities,Expense,1550,bKash,Dhaka
+TXN0226,2026-04-02,WASA Bill,Utilities,Expense,510,bKash,Dhaka
+TXN0227,2026-04-03,Link3 Internet Bill,Utilities,Expense,1100,bKash,Dhaka
+TXN0228,2026-04-04,Robi Mobile Recharge,Utilities,Expense,350,bKash,Dhaka
+TXN0229,2026-04-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0230,2026-04-05,Office Lunch,Food & Drinks,Expense,150,Cash,Dhaka
+TXN0231,2026-04-06,Pathao Bike,Transport,Expense,90,bKash,Dhaka
+TXN0232,2026-04-07,Evening CNG,Transport,Expense,170,Cash,Dhaka
+TXN0233,2026-04-08,Shwapno Grocery,Groceries,Expense,1900,Card,Dhaka
+TXN0234,2026-04-09,Sultan's Dine Dinner,Dining,Expense,1420,Card,Dhaka
+TXN0235,2026-04-10,Eid Shopping - Aarong,Shopping,Expense,8500,Card,Dhaka
+TXN0236,2026-04-11,Eid Shopping - Bata,Shopping,Expense,4500,Card,Dhaka
+TXN0237,2026-04-12,Star Kabab Dinner,Dining,Expense,430,bKash,Dhaka
+TXN0238,2026-04-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0239,2026-04-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0240,2026-04-15,Daraz Order - Eid Gifts,Shopping,Expense,5500,bKash,Dhaka
+TXN0241,2026-04-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0242,2026-04-17,Uber Moto,Transport,Expense,80,bKash,Dhaka
+TXN0243,2026-04-18,Chillox Dinner,Dining,Expense,310,bKash,Dhaka
+TXN0244,2026-04-19,Meena Bazar Groceries,Groceries,Expense,1450,Card,Dhaka
+TXN0245,2026-04-20,Kacchi Bhai Feast,Dining,Expense,550,Card,Dhaka
+TXN0246,2026-04-21,Foodpanda Delivery,Dining,Expense,420,bKash,Dhaka
+TXN0247,2026-04-22,Rickshaw Fare,Transport,Expense,60,Cash,Dhaka
+TXN0248,2026-04-23,Weekend Street Food,Food & Drinks,Expense,130,Cash,Dhaka
+TXN0249,2026-04-24,Bashundhara City Shopping,Shopping,Expense,2800,Card,Dhaka
+TXN0250,2026-04-25,Square Hospital Emergency,Healthcare,Expense,25000,bKash,Dhaka
+TXN0251,2026-04-26,Takeout Biryani,Dining,Expense,270,bKash,Dhaka
+TXN0252,2026-04-27,Month End Adjustment,Fees,Expense,60,bKash,Dhaka
+TXN0253,2026-05-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0254,2026-05-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0255,2026-05-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0256,2026-05-02,DESCO Bill,Utilities,Expense,1680,bKash,Dhaka
+TXN0257,2026-05-02,WASA Bill,Utilities,Expense,530,bKash,Dhaka
+TXN0258,2026-05-03,Carnival Internet Bill,Utilities,Expense,1200,bKash,Dhaka
+TXN0259,2026-05-04,Grameenphone Recharge,Utilities,Expense,299,bKash,Dhaka
+TXN0260,2026-05-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0261,2026-05-05,Office Lunch,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0262,2026-05-06,Pathao Bike,Transport,Expense,85,bKash,Dhaka
+TXN0263,2026-05-07,Evening CNG,Transport,Expense,160,Cash,Dhaka
+TXN0264,2026-05-08,Shwapno Grocery,Groceries,Expense,1800,Card,Dhaka
+TXN0265,2026-05-09,Sultan's Dine Dinner,Dining,Expense,1450,Card,Dhaka
+TXN0266,2026-05-10,Weekend Tea Stall,Food & Drinks,Expense,50,Cash,Dhaka
+TXN0267,2026-05-11,New Market Shopping,Shopping,Expense,1600,Cash,Dhaka
+TXN0268,2026-05-12,Star Kabab Dinner,Dining,Expense,400,bKash,Dhaka
+TXN0269,2026-05-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0270,2026-05-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0271,2026-05-15,Daraz Order - Electronics,Shopping,Expense,3100,bKash,Dhaka
+TXN0272,2026-05-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0273,2026-05-17,Uber Moto,Transport,Expense,75,bKash,Dhaka
+TXN0274,2026-05-18,Chillox Dinner,Dining,Expense,300,bKash,Dhaka
+TXN0275,2026-05-19,Meena Bazar Groceries,Groceries,Expense,1300,Card,Dhaka
+TXN0276,2026-05-20,Kacchi Bhai Feast,Dining,Expense,540,Card,Dhaka
+TXN0277,2026-05-21,Foodpanda Delivery,Dining,Expense,390,bKash,Dhaka
+TXN0278,2026-05-22,Rickshaw Fare,Transport,Expense,80,Cash,Dhaka
+TXN0279,2026-05-23,Weekend Street Food,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0280,2026-05-24,Bashundhara City Shopping,Shopping,Expense,2500,Card,Dhaka
+TXN0281,2026-05-25,Takeout Biryani,Dining,Expense,250,bKash,Dhaka
+TXN0282,2026-05-26,Month End Adjustment,Fees,Expense,45,bKash,Dhaka
+TXN0283,2026-06-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0284,2026-06-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0285,2026-06-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0286,2026-06-01,Zakat Deduction,Family,Expense,25000,Bank Transfer,Dhaka
+TXN0287,2026-06-02,DESCO Bill,Utilities,Expense,1750,bKash,Dhaka
+TXN0288,2026-06-02,WASA Bill,Utilities,Expense,550,bKash,Dhaka
+TXN0289,2026-06-03,Link3 Internet Bill,Utilities,Expense,1100,bKash,Dhaka
+TXN0290,2026-06-04,Banglalink Recharge,Utilities,Expense,350,bKash,Dhaka
+TXN0291,2026-06-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0292,2026-06-05,Office Lunch,Food & Drinks,Expense,150,Cash,Dhaka
+TXN0293,2026-06-06,Pathao Bike,Transport,Expense,90,bKash,Dhaka
+TXN0294,2026-06-07,Evening CNG,Transport,Expense,170,Cash,Dhaka
+TXN0295,2026-06-08,Shwapno Grocery,Groceries,Expense,1750,Card,Dhaka
+TXN0296,2026-06-09,Sultan's Dine Dinner,Dining,Expense,1400,Card,Dhaka
+TXN0297,2026-06-10,Weekend Tea Stall,Food & Drinks,Expense,60,Cash,Dhaka
+TXN0298,2026-06-11,Yellow Clothing Store,Shopping,Expense,3500,Card,Dhaka
+TXN0299,2026-06-12,Star Kabab Dinner,Dining,Expense,420,bKash,Dhaka
+TXN0300,2026-06-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0301,2026-06-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0302,2026-06-15,Daraz Order - Summer Clothes,Shopping,Expense,2800,bKash,Dhaka
+TXN0303,2026-06-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0304,2026-06-17,Uber Moto,Transport,Expense,80,bKash,Dhaka
+TXN0305,2026-06-18,Chillox Dinner,Dining,Expense,320,bKash,Dhaka
+TXN0306,2026-06-19,Meena Bazar Groceries,Groceries,Expense,1400,Card,Dhaka
+TXN0307,2026-06-20,Kacchi Bhai Feast,Dining,Expense,560,Card,Dhaka
+TXN0308,2026-06-21,Foodpanda Delivery,Dining,Expense,410,bKash,Dhaka
+TXN0309,2026-06-22,Rickshaw Fare,Transport,Expense,60,Cash,Dhaka
+TXN0310,2026-06-23,Weekend Street Food,Food & Drinks,Expense,120,Cash,Dhaka
+TXN0311,2026-06-24,Bashundhara City Shopping,Shopping,Expense,2700,Card,Dhaka
+TXN0312,2026-06-25,Takeout Biryani,Dining,Expense,280,bKash,Dhaka
+TXN0313,2026-06-26,Month End Adjustment,Fees,Expense,55,bKash,Dhaka
+TXN0314,2026-07-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0315,2026-07-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0316,2026-07-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0317,2026-07-02,DESCO Bill,Utilities,Expense,1820,bKash,Dhaka
+TXN0318,2026-07-02,WASA Bill,Utilities,Expense,580,bKash,Dhaka
+TXN0319,2026-07-03,Dot Internet Bill,Utilities,Expense,1000,bKash,Dhaka
+TXN0320,2026-07-04,Grameenphone Recharge,Utilities,Expense,299,bKash,Dhaka
+TXN0321,2026-07-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0322,2026-07-05,Office Lunch,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0323,2026-07-06,Pathao Bike,Transport,Expense,85,bKash,Dhaka
+TXN0324,2026-07-07,Evening CNG,Transport,Expense,160,Cash,Dhaka
+TXN0325,2026-07-08,Shwapno Grocery,Groceries,Expense,1850,Card,Dhaka
+TXN0326,2026-07-09,Sultan's Dine Dinner,Dining,Expense,1450,Card,Dhaka
+TXN0327,2026-07-10,Weekend Tea Stall,Food & Drinks,Expense,50,Cash,Dhaka
+TXN0328,2026-07-11,Aarong Shopping,Shopping,Expense,4200,Card,Dhaka
+TXN0329,2026-07-12,Star Kabab Dinner,Dining,Expense,410,bKash,Dhaka
+TXN0330,2026-07-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0331,2026-07-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0332,2026-07-15,Daraz Order - Gadgets,Shopping,Expense,3800,bKash,Dhaka
+TXN0333,2026-07-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0334,2026-07-17,Uber Moto,Transport,Expense,75,bKash,Dhaka
+TXN0335,2026-07-18,Chillox Dinner,Dining,Expense,290,bKash,Dhaka
+TXN0336,2026-07-19,Meena Bazar Groceries,Groceries,Expense,1350,Card,Dhaka
+TXN0337,2026-07-20,Kacchi Bhai Feast,Dining,Expense,530,Card,Dhaka
+TXN0338,2026-07-21,Foodpanda Delivery,Dining,Expense,400,bKash,Dhaka
+TXN0339,2026-07-22,Rickshaw Fare,Transport,Expense,80,Cash,Dhaka
+TXN0340,2026-07-23,Weekend Street Food,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0341,2026-07-24,Bashundhara City Shopping,Shopping,Expense,2900,Card,Dhaka
+TXN0342,2026-07-25,Takeout Biryani,Dining,Expense,260,bKash,Dhaka
+TXN0343,2026-07-26,Month End Adjustment,Fees,Expense,40,bKash,Dhaka
+TXN0344,2026-08-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0345,2026-08-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0346,2026-08-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0347,2026-08-02,DESCO Bill,Utilities,Expense,1790,bKash,Dhaka
+TXN0348,2026-08-02,WASA Bill,Utilities,Expense,560,bKash,Dhaka
+TXN0349,2026-08-03,Link3 Internet Bill,Utilities,Expense,1100,bKash,Dhaka
+TXN0350,2026-08-04,Robi Mobile Recharge,Utilities,Expense,350,bKash,Dhaka
+TXN0351,2026-08-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0352,2026-08-05,Office Lunch,Food & Drinks,Expense,150,Cash,Dhaka
+TXN0353,2026-08-06,Pathao Bike,Transport,Expense,90,bKash,Dhaka
+TXN0354,2026-08-07,Evening CNG,Transport,Expense,170,Cash,Dhaka
+TXN0355,2026-08-08,Shwapno Grocery,Groceries,Expense,1700,Card,Dhaka
+TXN0356,2026-08-09,Sultan's Dine Dinner,Dining,Expense,1420,Card,Dhaka
+TXN0357,2026-08-10,Weekend Tea Stall,Food & Drinks,Expense,60,Cash,Dhaka
+TXN0358,2026-08-11,New Market Shopping,Shopping,Expense,1900,Cash,Dhaka
+TXN0359,2026-08-12,Star Kabab Dinner,Dining,Expense,430,bKash,Dhaka
+TXN0360,2026-08-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0361,2026-08-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0362,2026-08-15,Daraz Order - Electronics,Shopping,Expense,4500,bKash,Dhaka
+TXN0363,2026-08-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0364,2026-08-17,Uber Moto,Transport,Expense,80,bKash,Dhaka
+TXN0365,2026-08-18,Chillox Dinner,Dining,Expense,310,bKash,Dhaka
+TXN0366,2026-08-19,Meena Bazar Groceries,Groceries,Expense,1450,Card,Dhaka
+TXN0367,2026-08-20,Kacchi Bhai Feast,Dining,Expense,570,Card,Dhaka
+TXN0368,2026-08-21,Foodpanda Delivery,Dining,Expense,430,bKash,Dhaka
+TXN0369,2026-08-22,Rickshaw Fare,Transport,Expense,60,Cash,Dhaka
+TXN0370,2026-08-23,Weekend Street Food,Food & Drinks,Expense,130,Cash,Dhaka
+TXN0371,2026-08-24,Bashundhara City Shopping,Shopping,Expense,2600,Card,Dhaka
+TXN0372,2026-08-25,Takeout Biryani,Dining,Expense,270,bKash,Dhaka
+TXN0373,2026-08-26,Month End Adjustment,Fees,Expense,60,bKash,Dhaka
+TXN0374,2026-08-27,US-Bangla Flight to Cox's Bazar,Entertainment,Expense,8500,Card,Dhaka
+TXN0375,2026-08-28,Hotel Sea View Cox's Bazar,Entertainment,Expense,12000,Card,Cox's Bazar
+TXN0376,2026-08-29,Seafood Dinner Cox's Bazar,Dining,Expense,2200,Card,Cox's Bazar
+TXN0377,2026-08-30,Local Transport Cox's Bazar,Transport,Expense,450,Cash,Cox's Bazar
+TXN0378,2026-08-31,Return Flight to Dhaka,Entertainment,Expense,8500,Card,Dhaka
+TXN0379,2026-09-01,Monthly Salary,Salary,Income,65000,Bank Transfer,Dhaka
+TXN0380,2026-09-01,Rent Payment,Housing,Expense,15000,Bank Transfer,Dhaka
+TXN0381,2026-09-01,Send Money to Mother,Family,Expense,5000,bKash,Dhaka
+TXN0382,2026-09-02,DESCO Bill,Utilities,Expense,1650,bKash,Dhaka
+TXN0383,2026-09-02,WASA Bill,Utilities,Expense,520,bKash,Dhaka
+TXN0384,2026-09-03,Carnival Internet Bill,Utilities,Expense,1200,bKash,Dhaka
+TXN0385,2026-09-04,Grameenphone Recharge,Utilities,Expense,299,bKash,Dhaka
+TXN0386,2026-09-05,Rickshaw to Metro,Transport,Expense,70,Cash,Dhaka
+TXN0387,2026-09-05,Office Lunch,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0388,2026-09-06,Pathao Bike,Transport,Expense,85,bKash,Dhaka
+TXN0389,2026-09-07,Evening CNG,Transport,Expense,160,Cash,Dhaka
+TXN0390,2026-09-08,Shwapno Grocery,Groceries,Expense,1800,Card,Dhaka
+TXN0391,2026-09-09,Sultan's Dine Dinner,Dining,Expense,1450,Card,Dhaka
+TXN0392,2026-09-10,Weekend Tea Stall,Food & Drinks,Expense,50,Cash,Dhaka
+TXN0393,2026-09-11,Bata Shoe Purchase,Shopping,Expense,3200,Card,Dhaka
+TXN0394,2026-09-12,Star Kabab Dinner,Dining,Expense,400,bKash,Dhaka
+TXN0395,2026-09-13,MRT Pass Recharge,Transport,Expense,500,bKash,Dhaka
+TXN0396,2026-09-14,Tuition Income,Freelance,Income,4000,Cash,Dhaka
+TXN0397,2026-09-15,Daraz Order - Home Appliances,Shopping,Expense,5500,bKash,Dhaka
+TXN0398,2026-09-16,Office Canteen,Food & Drinks,Expense,100,Cash,Dhaka
+TXN0399,2026-09-17,Uber Moto,Transport,Expense,75,bKash,Dhaka
+TXN0400,2026-09-18,Chillox Dinner,Dining,Expense,300,bKash,Dhaka
+TXN0401,2026-09-19,Meena Bazar Groceries,Groceries,Expense,1300,Card,Dhaka
+TXN0402,2026-09-20,Kacchi Bhai Feast,Dining,Expense,540,Card,Dhaka
+TXN0403,2026-09-21,Foodpanda Delivery,Dining,Expense,390,bKash,Dhaka
+TXN0404,2026-09-22,Rickshaw Fare,Transport,Expense,80,Cash,Dhaka
+TXN0405,2026-09-23,Weekend Street Food,Food & Drinks,Expense,140,Cash,Dhaka
+TXN0406,2026-09-24,Bashundhara City Shopping,Shopping,Expense,2800,Card,Dhaka
+TXN0407,2026-09-25,Takeout Biryani,Dining,Expense,250,bKash,Dhaka
+TXN0408,2026-09-26,Month End Adjustment,Fees,Expense,45,bKash,Dhaka
+TXN0409,2026-09-27,Green Line Bus to Chittagong,Transport,Expense,1200,bKash,Dhaka
+TXN0410,2026-09-28,Chittagong Local Transport,Transport,Expense,350,Cash,Chittagong
+TXN0411,2026-09-29,Seafood Dinner Chittagong,Dining,Expense,1800,Card,Chittagong
+TXN0412,2026-09-30,Return Bus to Dhaka,Transport,Expense,1200,bKash,Dhaka
+TXN0413,2025-10-15,Suborno Express Train to Chittagong,Transport,Expense,850,Card,Dhaka
+TXN0414,2025-10-16,Chittagong Hotel Stay,Entertainment,Expense,4500,Card,Chittagong
+TXN0415,2025-10-17,Return Train to Dhaka,Transport,Expense,850,Card,Dhaka
+TXN0416,2025-11-20,Pathao Food Delivery,Dining,Expense,480,bKash,Dhaka
+TXN0417,2025-12-15,Foodpanda Delivery,Dining,Expense,520,bKash,Dhaka
+TXN0418,2026-01-10,Pathao Food Delivery,Dining,Expense,450,bKash,Dhaka
+TXN0419,2026-02-14,Valentine's Day Dinner,Dining,Expense,2500,Card,Dhaka
+TXN0420,2026-03-26,Independence Day Shopping,Shopping,Expense,1500,Cash,Dhaka
+TXN0421,2026-04-14,Pohela Boishakh Shopping,Shopping,Expense,3500,Cash,Dhaka
+TXN0422,2026-05-01,May Day Weekend Trip,Entertainment,Expense,5000,bKash,Dhaka
+TXN0423,2026-06-15,Eid ul Adha Shopping,Shopping,Expense,12000,Card,Dhaka
+TXN0424,2026-07-20,Pathao Food Delivery,Dining,Expense,410,bKash,Dhaka
+TXN0425,2026-08-15,Foodpanda Delivery,Dining,Expense,460,bKash,Dhaka
+TXN0426,2025-09-15,Pathao Food Delivery,Dining,Expense,380,bKash,Dhaka
+TXN0427,2025-10-20,Foodpanda Delivery,Dining,Expense,420,bKash,Dhaka
+TXN0428,2025-11-15,Pathao Food Delivery,Dining,Expense,390,bKash,Dhaka
+TXN0429,2025-12-20,Foodpanda Delivery,Dining,Expense,440,bKash,Dhaka
+TXN0430,2026-01-20,Pathao Food Delivery,Dining,Expense,400,bKash,Dhaka
+TXN0431,2026-02-20,Foodpanda Delivery,Dining,Expense,430,bKash,Dhaka
+TXN0432,2026-03-20,Pathao Food Delivery,Dining,Expense,370,bKash,Dhaka
+TXN0433,2026-04-20,Foodpanda Delivery,Dining,Expense,450,bKash,Dhaka
+TXN0434,2026-05-20,Pathao Food Delivery,Dining,Expense,410,bKash,Dhaka
+TXN0435,2026-06-20,Foodpanda Delivery,Dining,Expense,470,bKash,Dhaka
+TXN0436,2026-07-20,Pathao Food Delivery,Dining,Expense,390,bKash,Dhaka
+TXN0437,2026-08-20,Foodpanda Delivery,Dining,Expense,420,bKash,Dhaka
+TXN0438,2025-09-25,bKash Send Money Fee,Fees,Expense,10,bKash,Dhaka
+TXN0439,2025-10-25,bKash Cash Out Charge,Fees,Expense,15,bKash,Dhaka
+TXN0440,2025-11-25,bKash Send Money Fee,Fees,Expense,10,bKash,Dhaka
+TXN0441,2025-12-25,bKash Cash Out Charge,Fees,Expense,15,bKash,Dhaka
+TXN0442,2026-01-25,bKash Send Money Fee,Fees,Expense,10,bKash,Dhaka
+TXN0443,2026-02-25,bKash Cash Out Charge,Fees,Expense,15,bKash,Dhaka
+TXN0444,2026-03-25,bKash Send Money Fee,Fees,Expense,10,bKash,Dhaka
+TXN0445,2026-04-25,bKash Cash Out Charge,Fees,Expense,15,bKash,Dhaka
+TXN0446,2026-05-25,bKash Send Money Fee,Fees,Expense,10,bKash,Dhaka
+TXN0447,2026-06-25,bKash Cash Out Charge,Fees,Expense,15,bKash,Dhaka
+TXN0448,2026-07-25,bKash Send Money Fee,Fees,Expense,10,bKash,Dhaka
+TXN0449,2026-08-25,bKash Cash Out Charge,Fees,Expense,15,bKash,Dhaka
+TXN0450,2025-09-05,Nagad Cash Out,Fees,Expense,15,Nagad,Dhaka
+TXN0451,2025-10-05,Nagad Send Money,Fees,Expense,10,Nagad,Dhaka
+TXN0452,2025-11-05,Nagad Cash Out,Fees,Expense,15,Nagad,Dhaka
+TXN0453,2025-12-05,Nagad Send Money,Fees,Expense,10,Nagad,Dhaka
+TXN0454,2026-01-05,Nagad Cash Out,Fees,Expense,15,Nagad,Dhaka
+TXN0455,2026-02-05,Nagad Send Money,Fees,Expense,10,Nagad,Dhaka
+TXN0456,2026-03-05,Nagad Cash Out,Fees,Expense,15,Nagad,Dhaka
+TXN0457,2026-04-05,Nagad Send Money,Fees,Expense,10,Nagad,Dhaka
+TXN0458,2026-05-05,Nagad Cash Out,Fees,Expense,15,Nagad,Dhaka
+TXN0459,2026-06-05,Nagad Send Money,Fees,Expense,10,Nagad,Dhaka
+TXN0460,2026-07-05,Nagad Cash Out,Fees,Expense,15,Nagad,Dhaka
+TXN0461,2026-08-05,Nagad Send Money,Fees,Expense,10,Nagad,Dhaka
+TXN0462,2025-09-12,Rocket Cash Out,Fees,Expense,15,Rocket,Dhaka
+TXN0463,2025-10-12,Rocket Send Money,Fees,Expense,10,Rocket,Dhaka
+TXN0464,2025-11-12,Rocket Cash Out,Fees,Expense,15,Rocket,Dhaka
+TXN0465,2025-12-12,Rocket Send Money,Fees,Expense,10,Rocket,Dhaka
+TXN0466,2026-01-12,Rocket Cash Out,Fees,Expense,15,Rocket,Dhaka
+TXN0467,2026-02-12,Rocket Send Money,Fees,Expense,10,Rocket,Dhaka
+TXN0468,2026-03-12,Rocket Cash Out,Fees,Expense,15,Rocket,Dhaka
+TXN0469,2026-04-12,Rocket Send Money,Fees,Expense,10,Rocket,Dhaka
+TXN0470,2026-05-12,Rocket Cash Out,Fees,Expense,15,Rocket,Dhaka
+TXN0471,2026-06-12,Rocket Send Money,Fees,Expense,10,Rocket,Dhaka
+TXN0472,2026-07-12,Rocket Cash Out,Fees,Expense,15,Rocket,Dhaka
+TXN0473,2026-08-12,Rocket Send Money,Fees,Expense,10,Rocket,Dhaka
+TXN0474,2025-09-18,City Bank Card Annual Fee,Fees,Expense,2500,Card,Dhaka
+TXN0475,2025-10-18,EBL Card Annual Fee,Fees,Expense,3000,Card,Dhaka
+TXN0476,2025-11-18,BRAC Bank SMS Alert,Fees,Expense,150,Bank Transfer,Dhaka
+TXN0477,2025-12-18,Dutch Bangla Card Fee,Fees,Expense,500,Card,Dhaka
+TXN0478,2026-01-18,City Bank Card Annual Fee,Fees,Expense,2500,Card,Dhaka
+TXN0479,2026-02-18,EBL Card Annual Fee,Fees,Expense,3000,Card,Dhaka
+TXN0480,2026-03-18,BRAC Bank SMS Alert,Fees,Expense,150,Bank Transfer,Dhaka
+TXN0481,2026-04-18,Dutch Bangla Card Fee,Fees,Expense,500,Card,Dhaka
+TXN0482,2026-05-18,City Bank Card Annual Fee,Fees,Expense,2500,Card,Dhaka
+TXN0483,2026-06-18,EBL Card Annual Fee,Fees,Expense,3000,Card,Dhaka
+TXN0484,2026-07-18,BRAC Bank SMS Alert,Fees,Expense,150,Bank Transfer,Dhaka
+TXN0485,2026-08-18,Dutch Bangla Card Fee,Fees,Expense,500,Card,Dhaka
+TXN0486,2025-09-22,Pharmacy Medicine,Healthcare,Expense,450,Cash,Dhaka
+TXN0487,2025-10-22,Doctor Consultation,Healthcare,Expense,800,bKash,Dhaka
+TXN0488,2025-11-22,Pharmacy Medicine,Healthcare,Expense,350,Cash,Dhaka
+TXN0489,2025-12-22,Doctor Consultation,Healthcare,Expense,1000,bKash,Dhaka
+TXN0490,2026-01-22,Pharmacy Medicine,Healthcare,Expense,550,Cash,Dhaka
+TXN0491,2026-02-22,Doctor Consultation,Healthcare,Expense,1200,bKash,Dhaka
+TXN0492,2026-03-22,Pharmacy Medicine,Healthcare,Expense,400,Cash,Dhaka
+TXN0493,2026-04-22,Doctor Consultation,Healthcare,Expense,900,bKash,Dhaka
+TXN0494,2026-05-22,Pharmacy Medicine,Healthcare,Expense,600,Cash,Dhaka
+TXN0495,2026-06-22,Doctor Consultation,Healthcare,Expense,1100,bKash,Dhaka
+TXN0496,2026-07-22,Pharmacy Medicine,Healthcare,Expense,480,Cash,Dhaka
+TXN0497,2026-08-22,Doctor Consultation,Healthcare,Expense,950,bKash,Dhaka
+TXN0498,2025-09-28,Gym Membership,Entertainment,Expense,2500,bKash,Dhaka
+TXN0499,2025-10-28,Netflix Subscription,Entertainment,Expense,800,Card,Dhaka
+TXN0500,2025-11-28,Gym Membership,Entertainment,Expense,2500,bKash,Dhaka
