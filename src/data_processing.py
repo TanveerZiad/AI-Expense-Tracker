@@ -1,37 +1,64 @@
 import pandas as pd
 
 
-def load_data(filepath="data/expenses.csv"):
-    df = pd.read_csv(filepath)
+FILE_PATH = "data/expenses_income_summary.csv"
 
-    # Standardize column names for date and amount
-    rename_mapping = {}
-    if "Date" in df.columns and "date" not in df.columns:
-        rename_mapping["Date"] = "date"
-    if "Amount_BDT" in df.columns and "amount" not in df.columns:
-        rename_mapping["Amount_BDT"] = "amount"
-    elif "Amount" in df.columns and "amount" not in df.columns:
-        rename_mapping["Amount"] = "amount"
 
-    if rename_mapping:
-        df = df.rename(columns=rename_mapping)
+def load_data():
 
-    df["date"] = pd.to_datetime(df["date"])
+    df = pd.read_csv(FILE_PATH)
+
+    df["Date"] = pd.to_datetime(
+        df["Date"],
+        errors="coerce"
+    )
+
+    df["Amount_BDT"] = pd.to_numeric(
+        df["Amount_BDT"],
+        errors="coerce"
+    )
+
+    df = df.dropna(
+        subset=["Date", "Amount_BDT"]
+    )
 
     return df
 
 
-def create_monthly_data(df):
-    df = df.copy()
-    df["year_month"] = df["date"].dt.to_period("M")
+def get_expenses(df):
+
+    return df[
+        df["Transaction_Type"].str.lower() == "expense"
+    ].copy()
+
+
+def get_income(df):
+
+    return df[
+        df["Transaction_Type"].str.lower() == "income"
+    ].copy()
+
+
+def create_monthly_expenses(df):
+
+    expenses = get_expenses(df)
+
+    expenses["Month"] = (
+        expenses["Date"]
+        .dt.to_period("M")
+    )
 
     monthly = (
-        df.groupby("year_month")["amount"]
+        expenses
+        .groupby("Month")["Amount_BDT"]
         .sum()
         .reset_index()
     )
 
-    monthly["year_month"] = monthly["year_month"].astype(str)
+    monthly.columns = [
+        "Month",
+        "Total_Expense"
+    ]
 
     return monthly
 
@@ -40,10 +67,30 @@ if __name__ == "__main__":
 
     df = load_data()
 
-    print("Raw Data:")
-    print(df.head())
+    expenses = get_expenses(df)
 
-    monthly = create_monthly_data(df)
+    income = get_income(df)
 
-    print("\nMonthly Expenses:")
+    print("\n========== SUMMARY ==========")
+
+    print("Total transactions:", len(df))
+
+    print("Total expenses:", len(expenses))
+
+    print("Total income:", len(income))
+
+    print(
+        "Total expense amount:",
+        expenses["Amount_BDT"].sum()
+    )
+
+    print(
+        "Total income amount:",
+        income["Amount_BDT"].sum()
+    )
+
+    print("\n========== MONTHLY EXPENSES ==========")
+
+    monthly = create_monthly_expenses(df)
+
     print(monthly)
